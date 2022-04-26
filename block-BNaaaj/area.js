@@ -5,7 +5,7 @@ return num*num;
 }
 square();
 function rectangle(a,b){
-return 2*a*b;
+return a*b;
 }
 rectangle()
 
