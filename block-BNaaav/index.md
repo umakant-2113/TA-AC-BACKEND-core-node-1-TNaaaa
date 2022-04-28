@@ -44,5 +44,5 @@ if(req.url.split('.').pop() === 'css') {
 
 3. handle request for all images in a seperate single router.
  - follow the steps for handling css 
-
+ 
 4. handle request for javascripts(if any) in simialar fashion as above.
